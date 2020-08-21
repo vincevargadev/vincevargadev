@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Visit Vince Varga's profile on LinkedIn](![Badge: Vince Varga on LinkedIn](https://img.shields.io/badge/LinkedIn-vince%E2%80%92varga-0077B5.svg?logoWidth=20&labelColor=0077B5&color=293e4a&style=for-the-badge&logo=linkedin&logoColor=white))
+[![Badge: Vince Varga on LinkedIn](https://img.shields.io/badge/LinkedIn-vince%E2%80%92varga-0077B5.svg?logoWidth=20&labelColor=0077B5&color=293e4a&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vince-varga/ "Visit Vince Varga's profile on LinkedIn")
 
 
 <!--
