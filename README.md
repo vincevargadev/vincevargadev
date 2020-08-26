@@ -51,9 +51,6 @@ I gave [multiple presentations](https://github.com/dartsidedev/presentations) at
 
 I started recording and editing some of the talks from the Flutter events and published the videos on [YouTube](https://www.youtube.com/channel/UC-ts4XH21boCnblu8YK9TsA). As our "personnel", equipment, and time available for editing were limited, the video quality might not always be perfect, but we've gotten much better over time!
 
-### Professional Experience
-
-
 <!--
 **vargavince91/vargavince91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
