@@ -4,7 +4,7 @@
 
 * 💙 Currently, I'm working most of the time with Flutter and Dart. 🚀 I'd love to see Dart become a popular full-stack language.
 * 📦 I develop and maintain various open-source packages. I work on open-source Dart code in my free time and sometimes at work.
-* 🗣 I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/). 🦠 Due to coronavirus pandemic, we don't hold events at the moment.
+* 🗣 I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/). 🦠 Due to the coronavirus pandemic, we don't hold events at the moment.
 * 📖 I'm currently learning Vim, Go, and good software development practices.
 * 💪 At one point in my career, I digged pretty deep into JavaScript, TypeScript, Python, and Java.  🧓🏻  My memories about the ins and outs of these languages started to fade away, but I'd be happy to use them again!
 * ⚛ I studied Physics at the university. 👨🏻‍💻 I'm a self-taught software developer
@@ -40,18 +40,16 @@ The packages published under the email address [`vince.varga@smaho.com`](https:/
 
 In December 2018, I launched a [Flutter meetup group in Munich](https://meetup.com/Flutter-Munich/). I've been the main organizer of Flutter Munich ever since. The group focuses on Flutter and Dart. After 15+ events, the group has 700+ members, and it has become the largest Flutter meetup group in Germany and one of the largest in Europe.
 
-We organize study jams, Flutter app demos, and hackathons in collaboration with local developers and companies, Googlers, and GDEs. I'm very proud of our hackathon where we developed app prototypes for people with aphasia. [Check out what we've built](https://github.com/flutter-munich/hackathon)! We also collaborated on an [event focussing on cross-platform development](https://www.youtube.com/watch?v=diunwwXgMK4) with the local Android and Kotlin user groups.
+We organize study jams, Flutter app demos, and hackathons in collaboration with local developers and companies, Googlers, and GDEs. I'm very proud of our hackathon where we developed [app prototypes for people with aphasia](https://github.com/flutter-munich/hackathon). We also collaborated on an [event focussing on cross-platform development](https://www.youtube.com/watch?v=diunwwXgMK4) with the local Android and Kotlin user groups.
 
-I gave multiple presentations at our events:
+I gave [multiple presentations](https://github.com/dartsidedev/presentations) at these events:
 
 * Platform channels in Flutter: Interactions between Flutter and native hosts (iOS and Android).
 * Full-stack Dart: Using Dart on the backend, Aqueduct deep-dive.
 * Flutter as cross-platform technology: mobile, web, and desktop.
 * Develop and publish a custom widget package: the weekday selector.
 
-Visit the [`dartsidedev/presentations`](https://github.com/dartsidedev/presentations) repository for my slides, videos, and other details.
-
-I started recording and editing the talks from the Flutter events and published the videos on [YouTube](https://www.youtube.com/channel/UC-ts4XH21boCnblu8YK9TsA): [Using vim for Flutter development](https://www.youtube.com/watch?v=fEedGn9yybA), [Hive](https://www.youtube.com/watch?v=Usoo6EIelJk), [Flutter pipelines on GitLab](https://www.youtube.com/watch?v=S20Cwkb4-EQ), and many more. As our "personnel", equipment, and time available for editing were limited, the video quality might not always be perfect, but we've gotten much better over time!
+I started recording and editing some of the talks from the Flutter events and published the videos on [YouTube](https://www.youtube.com/channel/UC-ts4XH21boCnblu8YK9TsA). As our "personnel", equipment, and time available for editing were limited, the video quality might not always be perfect, but we've gotten much better over time!
 
 ### Professional Experience
 
