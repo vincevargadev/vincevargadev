@@ -1,8 +1,4 @@
-# Vince Varga
-
-Oh, hello there! How are you doing? I hope you have a wonderful day!
-
-My name is Vince Varga, and I'm a software developer based in Munich.
+> Oh, hello there! How are you doing? I hope you have a wonderful day! My name is Vince Varga, and I'm a software developer based in Munich.
 
 ## Get to know me in <10 bullet points
 
