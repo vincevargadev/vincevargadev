@@ -1,6 +1,6 @@
-### Hi there 👋
+## Vince Varga
 
-Work in Progress
+#### Badges, badges, badges
 
 [![Badge: Vince Varga on LinkedIn: vince-varga](https://img.shields.io/badge/LinkedIn-Vince%E2%80%92Varga-0077B5.svg?logoWidth=20&labelColor=0077B5&color=293e4a&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vince-varga/ "Visit Vince Varga's profile on LinkedIn")
 [![Badge: Vince Varga on Twitter: @realVinceVarga](https://img.shields.io/badge/Twitter-%40realVinceVarga-1ea1f1.svg?logoWidth=20&labelColor=1ea1f1&color=18202c&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/realVinceVarga/ "Visit Vince Varga's profile on Twitter")
@@ -10,6 +10,9 @@ Work in Progress
 [![Badge: Flutter Munich on LinkedIn: vince-varga](https://img.shields.io/badge/LinkedIn-Flutter%E2%80%92Munich-0077B5.svg?logoWidth=20&labelColor=0077B5&color=293e4a&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/Flutter-Munich "Read updates from Flutter Munich on LinkedIn")
 [![Badge: Flutter Munich on Twitter: @FlutterMunich](https://img.shields.io/badge/Twitter-%40FlutterMunich-1ea1f1.svg?logoWidth=20&labelColor=1ea1f1&color=18202c&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/FlutterMunich "Read updates from Flutter Munich on Twitter")
 [![Badge: Flutter Munich on GitHub: flutter-munich](https://img.shields.io/badge/GitHub-flutter%E2%80%92munich-242a2f.svg?logoWidth=20&labelColor=242a2f&color=3f4448&style=plastic&logo=github&logoColor=white)](https://github.com/flutter-munich/ "Visit Flutter Munich's repositories on GitHub")
+![Vince Varga GitHub profile visits count badge](https://badges.pufler.dev/visits/vargavince91/vargavince91)
+
+
 
 <!--
 **vargavince91/vargavince91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
