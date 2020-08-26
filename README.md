@@ -10,37 +10,54 @@ My name is Vince Varga, and I'm a software developer based in Munich.
 * 📦 I develop and maintain various open-source packages. I work on open-source Dart code [in my free time](https://pub.dev/publishers/dartside.dev/packages) and sometimes [at work](https://pub.dev/packages?q=email%3Avince.varga%40smaho.com).
 * 🗣 I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/). 🦠 Due to coronavirus pandemic, we don't hold events at the moment.
 * 📖 I'm currently learning Vim, Go, and good software development practices.
-* 💪 At one point in my career, I digged pretty deep into JavaScript, TypeScript, Python, and Java.  🧓🏻  My memories started to fade away, but I'd be happy to use any of these languages again!
+* 💪 At one point in my career, I digged pretty deep into JavaScript, TypeScript, Python, and Java.  🧓🏻  My memories about the ins and outs of these languages started to fade away, but I'd be happy to use them again!
 * ⚛ I studied Physics at the university. 👨🏻‍💻 I'm a self-taught software developer
 * 📨 I'm somewhat active on [LinkedIn](https://www.linkedin.com/in/vince-varga/) and [Twitter](https://twitter.com/realVinceVarga/) ⌨️ My posts are 97% software development, 3% mechanical keyboards
-* 🇪🇺 Hungarian 🇭🇺 Based in Munich 🇩🇪 I enjoy learning languages 🇩🇪🇺🇸🇲🇽
+* 🇪🇺 As a Hungarian, living and working in Munich, I enjoy learning languages 🇩🇪🇺🇸🇲🇽 Just imagine if I didn't! 🙀
 * 🤪 Sometimes, I use way too many emojis 👻
 
-## Open-source
+## `--verbose`
+
+### Open-source
 
 I developed, published, and maintained various Dart packages and Flutter plugins on the pub.dev platform in my free time and as part of my daily job.
 
-The packages published under the email address [`vince.varga@smaho.com`](https://pub.dev/packages?q=email%3Avince.varga%40smaho.com) were developed at SMAHO, where I currently work as a software developer. The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). Visit the links above for all my open-source Dart packages.
+The packages published under the email address [`vince.varga@smaho.com`](https://pub.dev/packages?q=email%3Avince.varga%40smaho.com) were developed at [SMAHO](https://github.com/smaho-engineering/), where I currently work as a software developer. The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). Visit the links above for all my open-source Dart packages.
 
-### Flutter packages
+#### Flutter packages
 
 * [`weekday_selector`](https://pub.dev/packages/weekday_selector): A collection of custom Flutter widgets and classes to help you select weekdays in your apps. Perfect for recurring events, alarms. The weekday selector is customizable, themeable, accessible, and it supports internationalization.
 * [`nuts_activity_indicator`](https://pub.dev/packages/nuts_activity_indicator): I took advantage of the fact that the Flutter built-in widgets are open-source: This package is based on the cupertino library's activity indicator offering excellent customizability. You can customize, amongst others, the color, the width, the speed of the spinner, and the number of the rectangles that make up the activity indicator.
 * [`xcontext`](https://pub.dev/packages/xcontext): This extension library makes it easy to add static extensions methods and getters to the context from Flutter libraries. It keeps your code clean and concise, with all the type safety guarantees that Dart provides.
 
-### Flutter plugins
+#### Flutter plugins
 
 * [`esptouch_flutter`](https://pub.dev/packages/esptouch_flutter): Flutter plugin package, which contains an easy-to-use API for ESP-Touch in Dart. The plugin includes the platform-specific implementation for Android using Java and iOS using Objective-C. The platform code was heavily modified to provide greater customizability to fit SMAHO's internal and customer-facing apps. The plugin is the most popular ESP-Touch plugin for Flutter. ESP-Touch is a protocol developed by Espressif Systems to configure WiFi devices connecting to a router. It's most commonly used in headless systems due to their lack of a user interface.
 * [`android_wifi_info`](https://pub.dev/packages/android_wifi_info), [`ios_network_info`](https://pub.dev/packages/ios_network_info): Plugin packages for accessing Android's wifi info and the iOS network info from Flutter.
 * [`settings_panel_android`](https://pub.dev/packages/settings_panel_android): Plugin that helps you show Android's settings panels directly from your Dart code. Settings panels are used to change NFC, Volume, and connectivity settings quickly, and they help to reduce churn.
 
-### Dart packages
+#### Dart packages
 
 * [`mailto`](https://pub.dev/packages/mailto), [`whatsapp_unilink`](https://pub.dev/packages/whatsapp_unilink): Simple Dart packages to build "mailto" links and WhatsApp unilinks, respectively. The packages work with Flutter, web, and backend Dart.
 
-## Flutter Munich
+### Flutter Munich
 
-## Professional Experience
+In December 2018, I launched a [Flutter meetup group in Munich](https://meetup.com/Flutter-Munich/). I've been the main organizer of Flutter Munich ever since. The group focuses on Flutter and Dart. After 15+ events, the group has 700+ members, and it has become the largest Flutter meetup group in Germany and one of the largest in Europe.
+
+We organize study jams, Flutter app demos, and hackathons in collaboration with local developers and companies, Googlers, and GDEs. I'm very proud of our hackathon where we developed app prototypes for people with aphasia. [Check out what we've built](https://github.com/flutter-munich/hackathon)! We also collaborated on an [event focussing on cross-platform development](https://www.youtube.com/watch?v=diunwwXgMK4) with the local Android and Kotlin user groups.
+
+I gave multiple presentations at our events:
+
+* Platform channels in Flutter: Interactions between Flutter and native hosts (iOS and Android).
+* Full-stack Dart: Using Dart on the backend, Aqueduct deep-dive.
+* Flutter as cross-platform technology: mobile, web, and desktop.
+* Develop and publish a custom widget package: the weekday selector.
+
+Visit the [`dartsidedev/presentations`](https://github.com/dartsidedev/presentations) repository for my slides, videos, and other details.
+
+I started recording and editing the talks from the Flutter events and published the videos on [YouTube](https://www.youtube.com/channel/UC-ts4XH21boCnblu8YK9TsA): [Using vim for Flutter development](https://www.youtube.com/watch?v=fEedGn9yybA), [Hive](https://www.youtube.com/watch?v=Usoo6EIelJk), [Flutter pipelines on GitLab](https://www.youtube.com/watch?v=S20Cwkb4-EQ), and many more. As our "personnel", equipment, and time available for editing were limited, the video quality might not always be perfect, but we've gotten much better over time!
+
+### Professional Experience
 
 
 <!--
@@ -63,7 +80,9 @@ GIFs: weekday selector
 -->
 
 
-#### Badges, badges, badges
+## Badges, badges, badges
+
+You are still reading? Wow! Here are some badges as a reward!
 
 [![Badge: Vince Varga on LinkedIn: vince-varga](https://img.shields.io/badge/LinkedIn-Vince%E2%80%92Varga-0077B5.svg?logoWidth=20&labelColor=0077B5&color=293e4a&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vince-varga/ "Visit Vince Varga's profile on LinkedIn")
 [![Badge: Vince Varga on Twitter: @realVinceVarga](https://img.shields.io/badge/Twitter-%40realVinceVarga-1ea1f1.svg?logoWidth=20&labelColor=1ea1f1&color=18202c&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/realVinceVarga/ "Visit Vince Varga's profile on Twitter")
