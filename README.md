@@ -3,14 +3,14 @@
 ## Get to know me in <10 bullet points
 
 * 💙 Currently, I'm working most of the time with Flutter and Dart. 🚀 I'd love to see Dart become a popular full-stack language.
-* 📦 I develop and maintain various open-source packages. I work on open-source Dart code [in my free time](https://pub.dev/publishers/dartside.dev/packages) and sometimes [at work](https://pub.dev/packages?q=email%3Avince.varga%40smaho.com).
+* 📦 I develop and maintain various open-source packages. I work on open-source Dart code in my free time and sometimes at work.
 * 🗣 I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/). 🦠 Due to coronavirus pandemic, we don't hold events at the moment.
 * 📖 I'm currently learning Vim, Go, and good software development practices.
 * 💪 At one point in my career, I digged pretty deep into JavaScript, TypeScript, Python, and Java.  🧓🏻  My memories about the ins and outs of these languages started to fade away, but I'd be happy to use them again!
 * ⚛ I studied Physics at the university. 👨🏻‍💻 I'm a self-taught software developer
-* 📨 I'm somewhat active on [LinkedIn](https://www.linkedin.com/in/vince-varga/) and [Twitter](https://twitter.com/realVinceVarga/) ⌨️ My posts are 97% software development, 3% mechanical keyboards
 * 🇪🇺 As a Hungarian, living and working in Munich, I enjoy learning languages 🇩🇪🇺🇸🇲🇽 Just imagine if I didn't! 🙀
 * 🤪 Sometimes, I use way too many emojis 👻
+* 📨 I'm somewhat active on [LinkedIn](https://www.linkedin.com/in/vince-varga/) and [Twitter](https://twitter.com/realVinceVarga/) ⌨️ My posts are 97% software development, 3% mechanical keyboards
 
 ## `--verbose`
 
