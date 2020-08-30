@@ -2,7 +2,7 @@
 
 ## Get to know me in <10 bullet points
 
-* 💙&nbsp;&nbsp;Currently, I'm working most of the time with Flutter and Dart. I'd love to see Dart become a popular full-stack language.
+* 💙&nbsp;&nbsp;  Currently, I'm working most of the time with Flutter and Dart. I'd love to see Dart become a popular full-stack language.
 * 📦&nbsp;&nbsp;  I develop and maintain various open-source packages. I work on open-source Dart code in my free time and sometimes at work.
 * 🗣&nbsp;&nbsp;  I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/). Due to the coronavirus pandemic, we don't hold events at the moment.
 * 📖&nbsp;&nbsp;  I'm currently learning Vim, Go, and good software development practices.
