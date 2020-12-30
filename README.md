@@ -25,6 +25,8 @@ The packages published under the email address [`vince.varga@smaho.com`](https:/
 * [`nuts_activity_indicator`](https://pub.dev/packages/nuts_activity_indicator): I took advantage of the fact that the Flutter built-in widgets are open-source: This package is based on the cupertino library's activity indicator offering excellent customizability. You can customize, amongst others, the color, the width, the speed of the spinner, and the number of the rectangles that make up the activity indicator.
 * [`xcontext`](https://pub.dev/packages/xcontext): This extension library makes it easy to add static extensions methods and getters to the context from Flutter libraries. It keeps your code clean and concise, with all the type safety guarantees that Dart provides.
 
+<img src="https://github.com/smaho-engineering/weekday_selector/blob/83def9ba702f4d47b52b58e387a25c34962d2563/example/assets/styles.gif?raw=true" alt="GIF Flutter plugin weekday_selector - Example app in action: Styles" height="600"/>
+
 #### Flutter plugins
 
 * [`esptouch_flutter`](https://pub.dev/packages/esptouch_flutter): Flutter plugin package, which contains an easy-to-use API for ESP-Touch in Dart. The plugin includes the platform-specific implementation for Android using Java and iOS using Objective-C. The platform code was heavily modified to provide greater customizability to fit SMAHO's internal and customer-facing apps. The plugin is the most popular ESP-Touch plugin for Flutter. ESP-Touch is a protocol developed by Espressif Systems to configure WiFi devices connecting to a router. It's most commonly used in headless systems due to their lack of a user interface.
@@ -79,7 +81,7 @@ GIFs: weekday selector
 > * Built Flutter app using MQTT, ESP-Touch, and REST APIs for easy smart Wi-Fi plug setup and device control
 > * Developed Alexa Smart Home Skills and Google Smart Home Actions using TypeScript
 
-<img src="https://github.com/smaho-engineering/weekday_selector/blob/83def9ba702f4d47b52b58e387a25c34962d2563/example/assets/styles.gif?raw=true" alt="GIF Flutter plugin weekday_selector - Example app in action: Styles" height="600"/>
+<img src="https://github.com/vincevargadev/vincevargadev/raw/master/SMAHO.gif?raw=true" alt="Animated GIF of the SMAHO app - Turn devices on and off, animations" height="600"/>
 
 ## Badges, badges, badges
 
