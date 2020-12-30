@@ -69,6 +69,17 @@ Where are all the social sites' icons at???
 GIFs: weekday selector
 -->
 
+## Work
+
+### [SMAHO](https://smaho.com) - Software Developer
+
+> *Mar 2019 – Dec 2020*
+>
+> As the first employee of this startup in the smart home IoT sector, I got to build the company’s Flutter mobile application and voice assistant functions.
+> * Built Flutter app using MQTT, ESP-Touch, and REST APIs for easy smart Wi-Fi plug setup and device control
+> * Developed Alexa Smart Home Skills and Google Smart Home Actions using TypeScript
+
+<img src="https://github.com/smaho-engineering/weekday_selector/blob/83def9ba702f4d47b52b58e387a25c34962d2563/example/assets/styles.gif?raw=true" alt="GIF Flutter plugin weekday_selector - Example app in action: Styles" height="600"/>
 
 ## Badges, badges, badges
 
