@@ -25,7 +25,8 @@ The packages published under the email address [`vince.varga@smaho.com`](https:/
 * [`nuts_activity_indicator`](https://pub.dev/packages/nuts_activity_indicator): I took advantage of the fact that the Flutter built-in widgets are open-source: This package is based on the cupertino library's activity indicator offering excellent customizability. You can customize, amongst others, the color, the width, the speed of the spinner, and the number of the rectangles that make up the activity indicator.
 * [`xcontext`](https://pub.dev/packages/xcontext): This extension library makes it easy to add static extensions methods and getters to the context from Flutter libraries. It keeps your code clean and concise, with all the type safety guarantees that Dart provides.
 
-<img src="https://github.com/smaho-engineering/weekday_selector/blob/83def9ba702f4d47b52b58e387a25c34962d2563/example/assets/styles.gif?raw=true" alt="GIF Flutter plugin weekday_selector - Example app in action: Styles" height="600"/>
+<img src="https://github.com/smaho-engineering/weekday_selector/blob/83def9ba702f4d47b52b58e387a25c34962d2563/example/assets/styles.gif?raw=true" alt="Animated GIF Flutter package weekday_selector - Example app in action: Styles" height="600"/> <img src="https://github.com/dartsidedev/nuts_and_bolts/blob/master/assets/nuts_activity_indicator/nuts_activity_indicator_example_app.gif?raw=true" alt="Animated GIF Flutter package nuts_activity_indicator" height="600"/>
+
 
 #### Flutter plugins
 
