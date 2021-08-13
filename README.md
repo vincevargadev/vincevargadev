@@ -14,7 +14,7 @@
 
 I developed, published, and maintained various Dart packages and Flutter plugins on the pub.dev platform in my free time and as part of my daily job.
 
-The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). The packages published under the email address [`vince.varga@smaho.com`](https://pub.dev/packages?q=email%3Avince.varga%40smaho.com) were developed at [SMAHO](https://github.com/smaho-engineering/), where I worked as a software developer. Visit the links above for all my open-source Dart packages.
+The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). You can also find my other packages that I developed while working at [SMAHO](https://github.com/smaho-engineering/) [here](https://pub.dev/packages?q=smaho).
 
 #### Flutter packages
 
