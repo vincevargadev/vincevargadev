@@ -84,7 +84,7 @@ GIFs: weekday selector
 ## Badges, badges, badges
 
 [![Badge: Vince Varga on LinkedIn: vincevargadev](https://img.shields.io/badge/LinkedIn-vincevargadev-0077B5.svg?logoWidth=20&labelColor=0077B5&color=293e4a&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincevargadev/ "Visit Vince Varga's profile on LinkedIn")
-[![Badge: Vince Varga on Twitter: @vincevargadev](https://img.shields.io/badge/Twitter-%vincevargadev-1ea1f1.svg?logoWidth=20&labelColor=1ea1f1&color=18202c&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/realVinceVarga/ "Visit Vince Varga's profile on Twitter")
+[![Badge: Vince Varga on Twitter: vincevargadev](https://img.shields.io/badge/Twitter-vincevargadev-1ea1f1.svg?logoWidth=20&labelColor=1ea1f1&color=18202c&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/vincevargadev/ "Visit Vince Varga's profile on Twitter")
 [![Badge: Vince Varga on GitHub: vincevargadev](https://img.shields.io/badge/GitHub-vincevargadev-242a2f.svg?logoWidth=20&labelColor=242a2f&color=3f4448&style=plastic&logo=github&logoColor=white)](https://github.com/vargavince91/ "Visit Vince Varga's profile on GitHub")
 [![Badge: Flutter Munich on Meetup](https://img.shields.io/badge/Meetup-Flutter%E2%80%92Munich-f7415f.svg?logoWidth=20&labelColor=f7415f&color=00455d&style=plastic&logo=meetup&logoColor=white)](https://meetup.com/Flutter-Munich/ "Join Flutter Munich next event on Meetup")
 [![Badge: Flutter Munich on YouTube](https://img.shields.io/badge/YouTube-Flutter%20Munich-ff0101.svg?logoWidth=20&labelColor=ff0101&color=191919&style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-ts4XH21boCnblu8YK9TsA "Watch Flutter Munich's videos on YouTube")
