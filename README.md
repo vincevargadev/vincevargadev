@@ -1,11 +1,12 @@
 ## Hello
 
-* 💙&nbsp;&nbsp;  Currently, I'm working most of the time with Flutter and Dart. I'd love to see Dart become a popular full-stack language.
+* 💙&nbsp;&nbsp;  Currently, I'm working with Flutter and Dart. I'd love to see Dart become a popular full-stack language.
+* 🎙&nbsp;&nbsp;  I'm the host of the [Flutter 101 Podcast](https://flutter101.dev/). It's available on [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9lU3labTZKOA%3D%3D), [Apple Podcasts](https://podcasts.apple.com/us/podcast/flutter-101-podcast/id1548010659), [Spotify](https://open.spotify.com/show/1hwHiSz7MODI6lnzvGDS43), [Amazon Music](https://music.amazon.de/podcasts/d7665f8b-4204-4778-83c5-fee33cf0c48d/Flutter-101-Podcast), [RSS](https://feeds.simplecast.com/eSyZm6J8), [on the web, and more](https://flutter101.dev/episodes)
 * 📦&nbsp;&nbsp;  I develop and maintain various open-source packages. I work on open-source Dart code in my free time and sometimes at work.
 * 🗣&nbsp;&nbsp;  I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/). Due to the coronavirus pandemic, we don't hold events at the moment.
-* 📖&nbsp;&nbsp;  I'm currently learning Vim, Go, and good software development practices.
+* 📖&nbsp;&nbsp;  I'm currently learning Vim, Rust, and good software development practices.
 * ⚛&nbsp;&nbsp;  I studied Physics at the university. I'm a self-taught software developer.
-* 🇪🇺&nbsp;&nbsp;  As a Hungarian, living and working in Munich, I enjoy learning languages. Just imagine if I didn't! I speak English, Spanish, and German.
+* 🇪🇺&nbsp;&nbsp;  As a Hungarian, living and working in Munich, I enjoy learning languages. Just imagine if I didn't! I speak English, Spanish, and German (though the biggest room in the world is the room for improvement)
 
 ## `--verbose`
 
@@ -13,7 +14,7 @@
 
 I developed, published, and maintained various Dart packages and Flutter plugins on the pub.dev platform in my free time and as part of my daily job.
 
-The packages published under the email address [`vince.varga@smaho.com`](https://pub.dev/packages?q=email%3Avince.varga%40smaho.com) were developed at [SMAHO](https://github.com/smaho-engineering/), where I currently work as a software developer. The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). Visit the links above for all my open-source Dart packages.
+The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). The packages published under the email address [`vince.varga@smaho.com`](https://pub.dev/packages?q=email%3Avince.varga%40smaho.com) were developed at [SMAHO](https://github.com/smaho-engineering/), where I worked as a software developer. Visit the links above for all my open-source Dart packages.
 
 #### Flutter packages
 
