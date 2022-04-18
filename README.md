@@ -1,11 +1,12 @@
 ## Hello
 
-* 💙&nbsp;&nbsp;  Currently, I'm working with Flutter and Dart. I'd love to see Dart become a popular full-stack language.
-* 🎙&nbsp;&nbsp;  I'm the host of the [Flutter 101 Podcast](https://flutter101.dev/). It's available on [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9lU3labTZKOA%3D%3D), [Apple Podcasts](https://podcasts.apple.com/us/podcast/flutter-101-podcast/id1548010659), [Spotify](https://open.spotify.com/show/1hwHiSz7MODI6lnzvGDS43), [Amazon Music](https://music.amazon.de/podcasts/d7665f8b-4204-4778-83c5-fee33cf0c48d/Flutter-101-Podcast), [RSS](https://feeds.simplecast.com/eSyZm6J8), [on the web, and more](https://flutter101.dev/episodes)
-* 📦&nbsp;&nbsp;  I develop and maintain various open-source packages. I work on open-source Dart code in my free time and sometimes at work.
-* 🗣&nbsp;&nbsp;  I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/).
-* ⚛&nbsp;&nbsp;  I studied Physics at the university. I'm a self-taught software developer.
-* 🇪🇺&nbsp;&nbsp;  As a Hungarian, living and working in Munich, I enjoy learning languages. Just imagine if I didn't! I speak English, Spanish, and German (though the biggest room in the world is the room for improvement)
+* 💙&nbsp;&nbsp;  I'm working with Dart and Flutter. I'd love to see Dart become a popular full-stack language.
+* 🎙&nbsp;&nbsp;  I'm the host of the [Flutter 101 Podcast](https://flutter101.dev/) and I published over 25 episodes thanks to the great guests that agreed to come and talk to me about Flutter and Dart. The podcast is available on [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9lU3labTZKOA%3D%3D), [Apple Podcasts](https://podcasts.apple.com/us/podcast/flutter-101-podcast/id1548010659), [Spotify](https://open.spotify.com/show/1hwHiSz7MODI6lnzvGDS43), [Amazon Music](https://music.amazon.de/podcasts/d7665f8b-4204-4778-83c5-fee33cf0c48d/Flutter-101-Podcast), [RSS](https://feeds.simplecast.com/eSyZm6J8), [on the web, and more](https://flutter101.dev/episodes)
+* 📦&nbsp;&nbsp;  I develop and maintain various open-source packages. I work on open-source Dart code in my free time and sometimes at work. My private work is available on [`pub.dev`](https://pub.dev) under the [`dartside.dev` publisher](https://pub.dev/publishers/dartside.dev/packages), and the packages I developed at [SMAHO](https://github.com/smaho-engineering) use the [`smaho.dev` publisher](https://pub.dev/publishers/smaho.dev/packages). My packages reached over 350 likes on `pub.dev`.
+* 🗣&nbsp;&nbsp;  I launched and organized the [Flutter meetups in Munich](https://meetup.com/Flutter-Munich/) that is now one of the largest user groups focusing on Flutter in Germany with over 800 members and 20 events. Some of the community talks are [available on our YouTube channel](https://www.youtube.com/channel/UC-ts4XH21boCnblu8YK9TsA).
+* 🎯&nbsp;&nbsp;  I talked at various meetups and conferences. I gave talks about Flutter plugin development, null safety migration, full-stack Dart and introductory Flutter and Dart topics. You can see most of my presentations at [`github.com/dartsidedev/presentations`](https://github.com/dartsidedev/presentations).
+* ⚛&nbsp;&nbsp;  I studied Physics at the university and I'm a self-taught software developer.
+* 🇪🇺&nbsp;&nbsp;  As a Hungarian, living and working in Munich, I enjoy learning languages. Just imagine if I didn't! I speak English, Spanish, and German (though the biggest room in the world is the room for improvement).
 
 ## `--verbose`
 
@@ -13,7 +14,7 @@
 
 I developed, published, and maintained various Dart packages and Flutter plugins on the pub.dev platform in my free time and as part of my daily job.
 
-The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). You can also find my other packages that I developed while working at [SMAHO](https://github.com/smaho-engineering/) [here](https://pub.dev/packages?q=smaho).
+The packages I developed in my free time are published under [`dartside.dev`](https://pub.dev/publishers/dartside.dev/packages). You can also find my other packages that I developed while working at [SMAHO here](https://pub.dev/publishers/smaho.dev/packages).
 
 #### Flutter packages
 
